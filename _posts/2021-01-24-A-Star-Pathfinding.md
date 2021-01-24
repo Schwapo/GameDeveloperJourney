@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Transform Hirarchy"
+title: "A* Pathfinding"
 author: "Antonio Rafael Antunes Miranda"
 image: a-star-pathfinding.png
 ---
