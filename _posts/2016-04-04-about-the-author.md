@@ -2,7 +2,6 @@
 layout: post
 title: "About the Author"
 author: "Antonio Rafael Antunes Miranda"
-categories: facts
 image: cuba-4.jpg
 ---
 
